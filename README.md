@@ -8,7 +8,3 @@ VFS Emulator (Эмулятор файловой системы)
 Корректный разбор аргументов командной строки с помощью shlex.
 Требования:
 Python 3.8 или выше. Tkinter (обычно идет в комплекте с Python).
-Установка и запуск:
-1. Клонируйте репозиторий:
-git clone https://github.com/ваш-username/vfs-emulator.git
-cd vfs-emulator
